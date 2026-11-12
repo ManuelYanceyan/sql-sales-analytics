@@ -1,0 +1,45 @@
+product_id,product_name,category,unit_price,unit_cost
+PROD-001,Aurora Laptop 14,Electronics,899.00,640.00
+PROD-002,Aurora Laptop 16,Electronics,1199.00,860.00
+PROD-003,Nova Tablet 11,Electronics,399.00,270.00
+PROD-004,Nova Phone X,Electronics,649.00,470.00
+PROD-005,Vertex Monitor 27,Electronics,329.00,215.00
+PROD-006,Pulse Speaker,Electronics,89.00,48.00
+PROD-007,Orbit Webcam,Electronics,59.00,31.00
+PROD-008,Quantum SSD 1TB,Electronics,129.00,82.00
+PROD-009,Helix Router,Electronics,99.00,57.00
+PROD-010,Lumen Projector,Electronics,549.00,390.00
+PROD-011,Nimbus Mouse,Accessories,29.00,12.00
+PROD-012,Nimbus Keyboard,Accessories,79.00,38.00
+PROD-013,Cobalt USB-C Hub,Accessories,49.00,22.00
+PROD-014,Trail Backpack,Accessories,69.00,30.00
+PROD-015,Aero Headset,Accessories,119.00,62.00
+PROD-016,Grip Stand,Accessories,39.00,15.00
+PROD-017,Shield Sleeve,Accessories,34.00,14.00
+PROD-018,Flux Charger,Accessories,45.00,19.00
+PROD-019,Beacon Dock,Accessories,89.00,41.00
+PROD-020,Echo Stylus,Accessories,25.00,9.00
+PROD-021,Meridian Desk,Office,349.00,210.00
+PROD-022,Meridian Chair,Office,289.00,175.00
+PROD-023,Linea Lamp,Office,59.00,26.00
+PROD-024,Linea Shelf,Office,129.00,64.00
+PROD-025,Folio Cabinet,Office,219.00,130.00
+PROD-026,Folio Whiteboard,Office,149.00,78.00
+PROD-027,Compact Printer,Office,199.00,128.00
+PROD-028,Paper Pack,Office,12.00,5.00
+PROD-029,Archivo Binder,Office,9.00,3.00
+PROD-030,Grid Planner,Office,18.00,7.00
+PROD-031,Terra Mug,Home,14.00,5.00
+PROD-032,Terra Kettle,Home,49.00,23.00
+PROD-033,Halo Purifier,Home,229.00,145.00
+PROD-034,Halo Fan,Home,69.00,33.00
+PROD-035,Cozy Throw,Home,39.00,16.00
+PROD-036,Cozy Cushion,Home,29.00,11.00
+PROD-037,Verde Planter,Home,24.00,9.00
+PROD-038,Verde Vase,Home,32.00,12.00
+PROD-039,Orbit Office Suite,Software,199.00,35.00
+PROD-040,Orbit Security,Software,89.00,15.00
+PROD-041,Cloud Backup,Software,129.00,28.00
+PROD-042,Insight BI Starter,Software,249.00,45.00
+PROD-043,MailFlow Pro,Software,59.00,9.00
+PROD-044,FormCraft,Software,39.00,6.00

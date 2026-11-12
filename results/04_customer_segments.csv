@@ -1,0 +1,4 @@
+segment,customers,completed_orders,revenue,avg_order_value,revenue_per_customer
+Consumer,71,354,275369.15,777.88,3878.44
+SMB,53,246,215321.1,875.29,4062.66
+Enterprise,15,71,68647.75,966.87,4576.52

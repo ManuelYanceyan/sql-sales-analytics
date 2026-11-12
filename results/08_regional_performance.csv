@@ -1,0 +1,6 @@
+country,customers,completed_orders,units_sold,revenue,avg_order_value,revenue_share_pct
+Peru,69,330,1836,282128.15,854.93,50.44
+Colombia,26,138,720,108610.25,787.03,19.42
+Chile,20,99,589,82094.8,829.24,14.68
+Mexico,16,76,429,65232.85,858.33,11.66
+Argentina,8,28,146,21271.95,759.71,3.8

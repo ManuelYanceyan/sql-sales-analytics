@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated database (rebuild with generate_data.py)
+data/*.db
+
+# Environment variables and temporary files
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+temp/
+tmp/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
